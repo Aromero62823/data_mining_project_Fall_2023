@@ -1,0 +1,29 @@
+Title: Temperature Change
+Author: SEVGI SY
+URL: https://www.kaggle.com/datasets/sevgisarac/temperature-change
+Website: Kaggle.com
+
+Title: CO2 Emission by Vehicle
+Author:DEBAJYOTI PODDER
+URL: https://www.kaggle.com/datasets/debajyotipodder/co2-emission-by-vehicles
+Website: Kaggle.com
+
+Title: CO2 Emissions Around the World
+Author: KOUSTAV GHOUSH
+URL: https://www.kaggle.com/datasets/koustavghosh149/co2-emission-around-the-world
+Website: Kaggle.com
+
+Title: Volcano Eruptions
+Author: JESSE MOSTIPAK
+URL: https://www.kaggle.com/datasets/jessemostipak/volcano-eruptions
+Website: Kaggle.com
+
+Title:
+Author:
+URL:
+Website:
+
+Title:
+Author:
+URL:
+Website:
